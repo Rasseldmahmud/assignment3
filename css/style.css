@@ -1,0 +1,144 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.main_container{
+	width: 1150px;
+	margin: 0 auto;
+}
+nav{
+
+}
+nav img{
+	margin-top: 15px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+ nav ul li {
+	display: inline-block;
+	list-style: none;
+	}
+	nav ul{
+		float: right;
+		margin-right: 20px;
+		margin-top: 20px;
+	}
+	nav ul li a{
+		text-decoration: none;
+		font-size: 18px;
+		padding: 20px;
+		color: #333;
+	}
+	hr{
+		color: #fff;
+	}
+	h1{
+		text-align: center;
+		margin-top: 30px;
+		font-size: 50px;
+		color: #2f3c60;
+	}
+	h2{
+		text-align: center;
+		margin-top: 1px;
+		color: #4eb0fc;
+		font-size: 50px;
+	}
+	p{
+		text-align: center;
+		font-size: 18px;
+		margin-top: 20px;
+	}
+	.main-img{
+		margin-left: 322px;
+		width: 50%;
+ 
+	}
+
+	.left{
+		float: left;
+		width: 50%;
+		margin-top: 50px;
+		height: 250px;
+	}
+	.left span{
+		float: right;
+		font-size: 50px;
+		font-weight: 700;
+		color: #f90303c4;
+		padding: 21px;
+	}
+	.left p{
+		margin-top: 100px;
+		text-align: right;
+		margin-right: 10px;
+		line-height: 23.7px;
+		font-size: 21px;
+
+	}
+	
+	.right{
+		float: right;
+		width: 50%;
+		margin-top: 50px;
+		height: 250px;
+	}
+	.right h3{
+		margin-left: 10px;
+		margin-right: 180px;
+		font-weight: 300;
+	    font-size: 45px;
+	    margin-top: 20px;
+	    color: #2f3c60;
+
+
+	}
+	.main_container{
+		
+	
+		}
+		.post{
+		height: 400px;
+		width: 30%;
+		float: left;
+		margin-bottom: 50px;
+		margin-top: 30px;
+		margin-right: 20px;
+		color:#333;
+		border-radius: 10px;
+		box-shadow: 7px 7px 8px 0px #33333340;
+
+
+		}
+	.box1{
+
+		background-color: #ff00003d;
+X    }
+    .box2{
+    	background-color:#00800069;
+
+    }
+    .box3{
+    	background-color: #ffc10730;
+
+    }
+    .img{
+    	max-width: 100%;
+    	text-align: center;
+    	padding-left:20px;
+    	margin-top: 50px;
+    }
+    .img img{
+    	height: 150px;
+    	border-radius: 10px;
+    }
+    h4{
+    	text-align: left;
+    	font-size: 23px;
+    	margin-top: 20px;
+    }
+    .img p{
+    	text-align: left;
+    	line-height: 25px;
+    }
